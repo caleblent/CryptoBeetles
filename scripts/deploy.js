@@ -8,7 +8,7 @@ async function main() {
   console.log(`Contract successfully deployed :: ${cryptoBeetles.address}`)
 
   const newItemId = await cryptoBeetles.mint(
-    "https://ipfs.io/ipfs/Qme9VqqFn4GcD72Nxppdmaw2ScU3JeoagbJ8xk2YC9c8e4"
+    "https://ipfs.io/ipfs/QmbXKiVcpzQyaHpvcqv2sKQkaoYXtkduWB3kagqBtgjuDc"
   )
   console.log(`NFT minted successfully :: ${newItemId}`)
 }
