@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# CryptoBeetles
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project stems from a tutorial project on YouTube posted on January 16, 2022 by Block Explorer.
 
-Try running some of the following tasks:
+Video: https://youtu.be/A_6vTj887JE
+Channel: https://www.youtube.com/c/BlockExplorerMedia
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+# Etherscan
+
+https://rinkeby.etherscan.io/address/0x3aefeeae96bf4cb8ebd5d8868b16d286ed6f43bc
+
+# OpenSea
+
+CryptoBeetles820 on OpenSea: https://testnets.opensea.io/collection/cryptobeetles820
